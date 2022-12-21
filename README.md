@@ -20,16 +20,16 @@ Repository to list some vscode extension.
 - Parameter Hints
 
 ## 💻 Programming Language
-### ![](javascript.png) Javascript
+### 📟 Javascript
 - ESLint
 - JavaScript (ES6) code snippets
 - Quokka.js
 
-### PHP
+### 🐘 PHP
 - PHP Intelephense
 
 ## 📚 Framework / Library
-### Angular
+### 🅰️ Angular
 - Angular Language Service
 - Angular Schematics
 - Angular Snippets
