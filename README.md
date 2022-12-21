@@ -20,7 +20,7 @@ Repository to list some vscode extension.
 - Parameter Hints
 
 ## 💻 Programming Language
-### ⌨️ Javascript
+### ![](javascript.png) Javascript
 - ESLint
 - JavaScript (ES6) code snippets
 - Quokka.js
