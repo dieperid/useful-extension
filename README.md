@@ -1,21 +1,42 @@
 # Extension for VSCode
 Repository to list some vscode extension.
 
-## 1. Color Schemes
+## 📑 Color Schemes
 - One Dark Pro
 - Atom One Light Theme
 
-## 2. Database
+## 🛢 Database
 - SQLTools
 - SQLTools drivers (Mysql/MariaDb/...)
 
-## 3. Formatting
+## ↩️ Formatting
 - Prettier
 - Auto Rename Tag
+- Tabnine
 
-## 4. Customizing
+## ✨ Customizing
 - Material Icon Theme
 - GlassIT-VSC
+- Parameter Hints
 
-## 5. Other
+## 💻 Programming Language
+### ⌨️ Javascript
+- ESLint
+- JavaScript (ES6) code snippets
+- Quokka.js
+
+### PHP
+- PHP Intelephense
+
+## 📚 Framework / Library
+### Angular
+- Angular Language Service
+- Angular Schematics
+- Angular Snippets
+
+## 📌 Git
+- GitLens
+
+## 🌐 Other
 - CodeSnap
+- Discord Presence
