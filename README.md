@@ -6,30 +6,30 @@ Repository to list some vscode extension.
 - [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
 
 ## 🛢 Database
-- SQLTools
-- SQLTools drivers (Mysql/MariaDb/...)
+- [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
+- [SQLTools drivers MySQL/MariaDB](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools-driver-mysql)
 
 ## ↩️ Formatting
-- Prettier
-- Auto Rename Tag
-- Tabnine
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
 ## ✨ Customizing
-- Material Icon Theme
-- GlassIT-VSC
-- Parameter Hints
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [GlassIT-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
+- [Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)
 
 ## 💻 Programming Language
 ### 📟 Javascript
-- ESLint
-- JavaScript (ES6) code snippets
-- Quokka.js
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 ### 📋 TypeScript
-- TypeScript Hero
+- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 
 ### 🐘 PHP
-- PHP Intelephense
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
 ## 📚 Framework / Library
 ### 🅰️ Angular
@@ -38,8 +38,8 @@ Repository to list some vscode extension.
 - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 ## 📌 Git
-- GitLens
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ## 🌐 Other
-- CodeSnap
-- Discord Presence
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
