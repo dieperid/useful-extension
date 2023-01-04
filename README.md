@@ -19,6 +19,7 @@ Repository to list some vscode extension.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [GlassIT-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
 - [Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 ## 💻 Programming Language
 ### 📟 Javascript
