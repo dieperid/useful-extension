@@ -33,7 +33,7 @@ Repository to list some vscode extension.
 ### 🐘 PHP
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
-### 🖥 C / C++
+### 🌌 C / C++
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
 ## 📚 Framework / Library
