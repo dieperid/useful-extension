@@ -1,6 +1,3 @@
-# 💫 Extension for VS Code 💫
-Repository to list some vscode extension.
-
 ## 📑 Color Schemes
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
@@ -50,6 +47,8 @@ Repository to list some vscode extension.
 - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 ### 〽️ Laravel
+- [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [Laravel Ide Helper](https://github.com/barryvdh/laravel-ide-helper)
 - [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan)
 - [Laravel Blade Formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter)
 - [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
@@ -57,7 +56,6 @@ Repository to list some vscode extension.
 - [Laravel Goto View](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)
 - [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-
 
 ## 📌 Git
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
