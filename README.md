@@ -45,6 +45,7 @@
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
 - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+- [PrimeNg](https://github.com/primefaces/primeng)
 
 ### 〽️ Laravel
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
